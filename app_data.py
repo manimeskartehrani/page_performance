@@ -8,7 +8,6 @@ import performance_report
 
 st.header("Welcome to Page Performance App")
 
-
 bf_sites_full_name = [
     'https://www.site1.org',
     # 'https://www.site2.com',
@@ -17,15 +16,15 @@ bf_sites_full_name = [
     # 'https://www.site5.org',
 ]
 
-# bf_sites_short_name = ['Site1','Site2','Site3','Site4','Site5']
+# bf_sites_short_name = ['Site1','Site2','Site3','Site4','Site']
 bf_sites_short_name = ['Site1']
 
 bf_sites_property_id = {
-    'site1': "310314693",
-    # 'site2':"310299920",
-    # 'site3' : "309175679",
-    # 'site4' : "310357841",
-    # 'site5' : "309603795"
+    'site1': "3103146931",
+    # 'site2':"31029992502",
+    # 'site3' : "309175675593",
+    # 'site4' : "31035784714",
+    # 'site5' : "30960379655"
 }
 
 bf_sites_GA4_credential_files = {
